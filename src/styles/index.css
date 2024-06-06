@@ -10,3 +10,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+h1{
+    background: rgb(119, 158, 203);
+    color: whitesmoke;
+}
